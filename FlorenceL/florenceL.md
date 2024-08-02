@@ -2,15 +2,15 @@
 title: Florence Lapierre
 image: /img/profils/FlorenceL/portrait.ori.JPG
 images:
-  - /img/profils/FlorenceL/champ_de_fleur2_ori.png
-  - /img/profils/FlorenceL/fleur_ombre_brillant.ori.jpg
-  - /img/profils/FlorenceL/chien_peinture_vango.ai.ori.jpg
-  - /img/profils/FlorenceL/montage_photo_chien.ori.png
-  - /img/profils/FlorenceL/montage_photo_florence.ori.png
-  - /img/profils/FlorenceL/ombre_feu.ori.jpg
-  - /img/profils/FlorenceL/ombre_dos_flames.ori.png
-  - /img/profils/FlorenceL/ombre_pied_feu.ori.png
-  - /img/profils/FlorenceL/portrait.ori.JPG
+  - /FlorenceL/champ_de_fleur2_ori.png
+  - /FlorenceL/fleur_ombre_brillant.ori.jpg
+  - /FlorenceL/chien_peinture_vango.ai.ori.jpg
+  - /FlorenceL/montage_photo_chien.ori.png
+  - /FlorenceL/montage_photo_florence.ori.png
+  - /FlorenceL/ombre_feu.ori.jpg
+  - /FlorenceL/ombre_dos_flames.ori.png
+  - /FlorenceL/ombre_pied_feu.ori.png
+  - /FlorenceL/portrait.ori.JPG
 
 messages:
   - Grand intérêt pour la direction artistique

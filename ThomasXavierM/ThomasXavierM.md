@@ -4,15 +4,15 @@ image: /img/profils/ThomasXavierM/20-ori.ori.jpg
 
 
 images:
-  - /img/profils/ThomasXavierM/PHOTOAPP/cartoon-ori.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/711-ori.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/Astro-oir-ai.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/BlueWinter.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/MoonFace-ori.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/Suit-ori-ai.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/cameleon-ori.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/shadow-ori.ori.jpg
-  - /img/profils/ThomasXavierM/PHOTOAPP/street-ori.ori.png
+  - /ThomasXavierM/PHOTOAPP/cartoon-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/711-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/Astro-oir-ai.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/BlueWinter.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/MoonFace-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/Suit-ori-ai.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/cameleon-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/shadow-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/street-ori.ori.png
  
 
 Messages :

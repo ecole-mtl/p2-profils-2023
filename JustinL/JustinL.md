@@ -2,16 +2,16 @@
 title: Justin L 
 image: /img/profils/JustinL/JustinL-3.ori.JPG
 images:
-  - /img/profils/JustinL/JustinL-1.ori.JPG
-  - /img/profils/JustinL/JustinL-2.ori.JPG
-  - /img/profils/JustinL/JustinL-4.ori.jpg
-  - /img/profils/JustinL/JustinL-11.JPG
-  - /img/profils/JustinL/JustinL-5.ori.JPG
-  - /img/profils/JustinL/JustinL-6.ori.jpg
-  - /img/profils/JustinL/JustinL-7.ori.JPG
-  - /img/profils/JustinL/JustinL-8.ori.JPG
-  - /img/profils/JustinL/JustinL-9.ori.JPG
-  - /img/profils/JustinL/JustinL-10.ori.JPG
+  - /JustinL/JustinL-1.ori.JPG
+  - /JustinL/JustinL-2.ori.JPG
+  - /JustinL/JustinL-4.ori.jpg
+  - /JustinL/JustinL-11.JPG
+  - /JustinL/JustinL-5.ori.JPG
+  - /JustinL/JustinL-6.ori.jpg
+  - /JustinL/JustinL-7.ori.JPG
+  - /JustinL/JustinL-8.ori.JPG
+  - /JustinL/JustinL-9.ori.JPG
+  - /JustinL/JustinL-10.ori.JPG
 
 messages:
 

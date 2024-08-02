@@ -3,19 +3,19 @@ title: MariaB
 image: /img/profils/MariaB/MariaB.png
 images:
 
-  - /img/profils/MariaB/2-tp-001.ori.JPG
-  - /img/profils/MariaB/2-tp-002.ori.JPG
-  - /img/profils/MariaB/2-tp-003.ori.JPG
-  - /img/profils/MariaB/2-tp-004.ori.JPG
-  - /img/profils/MariaB/2-tp-005.ori.JPG
-  - /img/profils/MariaB/2-tp-006.ori.jpg
-  - /img/profils/MariaB/2-tp-007.ori.jpg
-  - /img/profils/MariaB/2-tp-008.ori.jpg
-  - /img/profils/MariaB/2-tp-009.ori.JPG
-  - /img/profils/MariaB/2-tp-010.ori.jpg
-  - /img/profils/MariaB/2-tp-011.ori.jpg
-  - /img/profils/MariaB/2-tp-012.ori.jpg
-  - /img/profils/MariaB/2-tp-013.ori.JPG
+  - /MariaB/2-tp-001.ori.JPG
+  - /MariaB/2-tp-002.ori.JPG
+  - /MariaB/2-tp-003.ori.JPG
+  - /MariaB/2-tp-004.ori.JPG
+  - /MariaB/2-tp-005.ori.JPG
+  - /MariaB/2-tp-006.ori.jpg
+  - /MariaB/2-tp-007.ori.jpg
+  - /MariaB/2-tp-008.ori.jpg
+  - /MariaB/2-tp-009.ori.JPG
+  - /MariaB/2-tp-010.ori.jpg
+  - /MariaB/2-tp-011.ori.jpg
+  - /MariaB/2-tp-012.ori.jpg
+  - /MariaB/2-tp-013.ori.JPG
 
 messages:
  - Passionnée de musique, avec une oreille attentive pour les mélodies envoûtantes.

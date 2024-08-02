@@ -2,13 +2,13 @@
 title: ClementB
 image: /img/profils/ClementB/profil2.ori.jpg
 images:
-  - /img/profils/ClementB/profil.ori.jpg
-  - /img/profils/ClementB/portrait.ori.jpg
-  - /img/profils/ClementB/fleurs4.ori.jpg
-  - /img/profils/ClementB/fleurs3.ori.jpg
-  - /img/profils/ClementB/fleurs2.ori.jpg
-  - /img/profils/ClementB/fleurs.ori.jpg
-  - /img/profils/ClementB/chat.ori.jpg
+  - /ClementB/profil.ori.jpg
+  - /ClementB/portrait.ori.jpg
+  - /ClementB/fleurs4.ori.jpg
+  - /ClementB/fleurs3.ori.jpg
+  - /ClementB/fleurs2.ori.jpg
+  - /ClementB/fleurs.ori.jpg
+  - /ClementB/chat.ori.jpg
 
 messages:
   - Intérêt pour la photographie

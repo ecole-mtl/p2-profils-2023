@@ -4,10 +4,10 @@ image: /img/profils/AnthonnyL/moi1.jpg
 
 
 images:
-  - /img/profils/AnthonnyL/projet1.png
-  - /img/profils/AnthonnyL/moi2.jpg
-  - /img/profils/AnthonnyL/moi3.jpg
-  - /img/profils/AnthonnyL/projet2.jpg
+  - /AnthonnyL/projet1.png
+  - /AnthonnyL/moi2.jpg
+  - /AnthonnyL/moi3.jpg
+  - /AnthonnyL/projet2.jpg
   
 
 messages:

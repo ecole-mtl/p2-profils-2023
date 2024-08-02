@@ -12,14 +12,14 @@ messages:
   - Aimerais que le concept de projet créatif ne soit pas un antonyme du concept du sommeil
   - Par miracle, n'a jamais bu de café de sa vie
 images:
-  - /img/profils/LaurenceD/01.ori.JPG
-  - /img/profils/LaurenceD/02.ori.JPG
-  - /img/profils/LaurenceD/03.ori.JPG
-  - /img/profils/LaurenceD/04.ori.JPG
-  - /img/profils/LaurenceD/05.ori.JPG
-  - /img/profils/LaurenceD/06.ori.jpg
-  - /img/profils/LaurenceD/07.ori.JPG
-  - /img/profils/LaurenceD/08.ori.png
+  - /LaurenceD/01.ori.JPG
+  - /LaurenceD/02.ori.JPG
+  - /LaurenceD/03.ori.JPG
+  - /LaurenceD/04.ori.JPG
+  - /LaurenceD/05.ori.JPG
+  - /LaurenceD/06.ori.jpg
+  - /LaurenceD/07.ori.JPG
+  - /LaurenceD/08.ori.png
 
 
 ---

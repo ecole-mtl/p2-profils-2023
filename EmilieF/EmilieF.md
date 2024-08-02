@@ -2,15 +2,15 @@
 title: Émilie F
 image: /img/profils/EmilieF/portrait_pluie.ori.png
 images:
-  - /img/profils/EmilieF/portrait_montage.ori.jpg
-  - /img/profils/EmilieF/amitie_tokyo.ori.jpg
-  - /img/profils/EmilieF/araigne.ori.jpg
-  - /img/profils/EmilieF/dessin_moustache.ori.png
-  - /img/profils/EmilieF/dessin_oberon.ori.png
-  - /img/profils/EmilieF/dessin_tableau.ori.jpg
-  - /img/profils/EmilieF/peepy.ori.jpg
-  - /img/profils/EmilieF/inktober_tous.ori.png
-  - /img/profils/EmilieF/portrait_papier.ori.jpg
+  - /EmilieF/portrait_montage.ori.jpg
+  - /EmilieF/amitie_tokyo.ori.jpg
+  - /EmilieF/araigne.ori.jpg
+  - /EmilieF/dessin_moustache.ori.png
+  - /EmilieF/dessin_oberon.ori.png
+  - /EmilieF/dessin_tableau.ori.jpg
+  - /EmilieF/peepy.ori.jpg
+  - /EmilieF/inktober_tous.ori.png
+  - /EmilieF/portrait_papier.ori.jpg
 
  
 

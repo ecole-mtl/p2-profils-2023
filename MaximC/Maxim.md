@@ -4,10 +4,10 @@ image: /img/profils/MaximC/Maxim2.jpg
 
 
 images:
-  - /img/profils/MaximC/Maxim1.jpg
-  - /img/profils/MaximC/Maxim3.jpg
-  - /img/profils/MaximC/Maxim4.jpg
-  - /img/profils/MaximC/Maxim5.jpg
+  - /MaximC/Maxim1.jpg
+  - /MaximC/Maxim3.jpg
+  - /MaximC/Maxim4.jpg
+  - /MaximC/Maxim5.jpg
   
 
 messages:

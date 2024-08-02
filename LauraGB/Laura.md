@@ -2,22 +2,22 @@
 title: Laura GB
 image: /img/profils/LauraGB/all_over_the_place.ori.jpg
 images:
-  - /img/profils/LauraGB/bald.ori.jpg
-  - /img/profils/LauraGB/boxe.ori.jpg
-  - /img/profils/LauraGB/danse.ori.jpg
-  - /img/profils/LauraGB/zoom.ori.jpg
-  - /img/profils/LauraGB/feu.ori.jpg
-  - /img/profils/LauraGB/phone.ori.jpg
-  - /img/profils/LauraGB/digital.ori.png
-  - /img/profils/LauraGB/TIKTOK.ori.png
-  - /img/profils/LauraGB/india.ori.ai.png
-  - /img/profils/LauraGB/IMG_voyage1.jpg
-  - /img/profils/LauraGB/PXL_voyage2.jpg
-  - /img/profils/LauraGB/PXL_voyage3.jpg
-  - /img/profils/LauraGB/PXL_voyage4.jpg
-  - /img/profils/LauraGB/PXL_voyage5.jpg
-  - /img/profils/LauraGB/PXL_voyage6.jpg
-  - /img/profils/LauraGB/PXL_BFF.jpg
+  - /LauraGB/bald.ori.jpg
+  - /LauraGB/boxe.ori.jpg
+  - /LauraGB/danse.ori.jpg
+  - /LauraGB/zoom.ori.jpg
+  - /LauraGB/feu.ori.jpg
+  - /LauraGB/phone.ori.jpg
+  - /LauraGB/digital.ori.png
+  - /LauraGB/TIKTOK.ori.png
+  - /LauraGB/india.ori.ai.png
+  - /LauraGB/IMG_voyage1.jpg
+  - /LauraGB/PXL_voyage2.jpg
+  - /LauraGB/PXL_voyage3.jpg
+  - /LauraGB/PXL_voyage4.jpg
+  - /LauraGB/PXL_voyage5.jpg
+  - /LauraGB/PXL_voyage6.jpg
+  - /LauraGB/PXL_BFF.jpg
 
 
 messages:

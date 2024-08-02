@@ -4,16 +4,16 @@ image: /img/profils/MaudeL/protrait_bleu.ori.jpg
 
 
 images:
-  - /img/profils/MaudeL/portrait_blacklight1.ori.jpg
-  - /img/profils/MaudeL/peinture_corps.ori.jpg
-  - /img/profils/MaudeL/portrait_makeup.ori.jpg
-  - /img/profils/MaudeL/portrait_envers.ori.jpg
-  - /img/profils/MaudeL/vinyls_montage.ori.jpg
-  - /img/profils/MaudeL/portrait_mouvementé.ori.jpg
-  - /img/profils/MaudeL/portrait_blacklight2.ori.jpg
-  - /img/profils/MaudeL/déraciné.ori.jpg
-  - /img/profils/MaudeL/barcelone.ai.jpg
-  - /img/profils/MaudeL/portrait_rose.ori.jpg
+  - /MaudeL/portrait_blacklight1.ori.jpg
+  - /MaudeL/peinture_corps.ori.jpg
+  - /MaudeL/portrait_makeup.ori.jpg
+  - /MaudeL/portrait_envers.ori.jpg
+  - /MaudeL/vinyls_montage.ori.jpg
+  - /MaudeL/portrait_mouvementé.ori.jpg
+  - /MaudeL/portrait_blacklight2.ori.jpg
+  - /MaudeL/déraciné.ori.jpg
+  - /MaudeL/barcelone.ai.jpg
+  - /MaudeL/portrait_rose.ori.jpg
 
 
 

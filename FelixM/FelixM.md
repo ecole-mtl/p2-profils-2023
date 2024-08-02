@@ -2,21 +2,21 @@
 title: Félix M
 image: /img/profils/FelixM/filtre.png
 images:
-  - /img/profils/FelixM/1.jpg
-  - /img/profils/FelixM/0.jpg
-  - /img/profils/FelixM/12.jpg
-  - /img/profils/FelixM/2.jpg
-  - /img/profils/FelixM/3.jpg
-  - /img/profils/FelixM/4.jpg
-  - /img/profils/FelixM/5.jpg
-  - /img/profils/FelixM/6.jpg
-  - /img/profils/FelixM/7.jpg
-  - /img/profils/FelixM/8.jpg
-  - /img/profils/FelixM/9.jpg
-  - /img/profils/FelixM/10.jpg
-  - /img/profils/FelixM/11.jpg
+  - /FelixM/1.jpg
+  - /FelixM/0.jpg
+  - /FelixM/12.jpg
+  - /FelixM/2.jpg
+  - /FelixM/3.jpg
+  - /FelixM/4.jpg
+  - /FelixM/5.jpg
+  - /FelixM/6.jpg
+  - /FelixM/7.jpg
+  - /FelixM/8.jpg
+  - /FelixM/9.jpg
+  - /FelixM/10.jpg
+  - /FelixM/11.jpg
 
-  - /img/profils/FelixM/13.jpg
+  - /FelixM/13.jpg
 
 messages:
   - Grand intérêt pour la photo et sa tradition

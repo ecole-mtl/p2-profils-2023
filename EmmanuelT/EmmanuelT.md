@@ -2,16 +2,16 @@
 title: Emmanuel T
 image: /img/profils/EmmanuelT/moi_normal.ori.jpg
 images:
-  - /img/profils/EmmanuelT/moi_silly.ori.jpg
-  - /img/profils/EmmanuelT/moi_zen.ori.jpg
+  - /EmmanuelT/moi_silly.ori.jpg
+  - /EmmanuelT/moi_zen.ori.jpg
   - - /img/profils/EmmanuelT/moi_fanatiq.ori.jpg
-  - /img/profils/EmmanuelT/consoles.ori.jpg
-  - /img/profils/EmmanuelT/anime.ori.jpg
-  - /img/profils/EmmanuelT/SpotifyStats.ori.jpg
-  - /img/profils/EmmanuelT/dessin.ori.png
-  - /img/profils/EmmanuelT/automne.ai.jpg
-  - /img/profils/EmmanuelT/perefectionnistes.ori.jpg
-  - /img/profils/EmmanuelT/maison2.ori.jpg
+  - /EmmanuelT/consoles.ori.jpg
+  - /EmmanuelT/anime.ori.jpg
+  - /EmmanuelT/SpotifyStats.ori.jpg
+  - /EmmanuelT/dessin.ori.png
+  - /EmmanuelT/automne.ai.jpg
+  - /EmmanuelT/perefectionnistes.ori.jpg
+  - /EmmanuelT/maison2.ori.jpg
   - 
   
   

@@ -2,17 +2,17 @@
 title: Dominic R
 image: /img/profils/DominicR/dominicR_01.ori.JPG
 images:
-  - /img/profils/DominicR/dominicR_01.ori.JPG
-  - /img/profils/DominicR/dominicR_02.ori.JPG
-  - /img/profils/DominicR/dominicR_03.ori.JPG
-  - /img/profils/DominicR/dominicR_04.ori.JPG
-  - /img/profils/DominicR/dominicR_05.ori.JPG
-  - /img/profils/DominicR/dominicR_06.ori.JPG
-  - /img/profils/DominicR/dominicR_07.ori.JPG
-  - /img/profils/DominicR/dominicR_08.ori.JPG
-  - /img/profils/DominicR/dominicR_09.ori.JPG
-  - /img/profils/DominicR/dominicR_10.ori.JPG
-  - /img/profils/DominicR/dominicR_11.ori.jpg
+  - /DominicR/dominicR_01.ori.JPG
+  - /DominicR/dominicR_02.ori.JPG
+  - /DominicR/dominicR_03.ori.JPG
+  - /DominicR/dominicR_04.ori.JPG
+  - /DominicR/dominicR_05.ori.JPG
+  - /DominicR/dominicR_06.ori.JPG
+  - /DominicR/dominicR_07.ori.JPG
+  - /DominicR/dominicR_08.ori.JPG
+  - /DominicR/dominicR_09.ori.JPG
+  - /DominicR/dominicR_10.ori.JPG
+  - /DominicR/dominicR_11.ori.jpg
  
 
 messages:

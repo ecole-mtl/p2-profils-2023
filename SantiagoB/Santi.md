@@ -3,13 +3,13 @@ title: Santiago B
 image: /img/profils/SantiagoB/IMG_1602.ori.jpg
 
 images:
-  - /img/profils/SantiagoB/IMG_1583.ori.jpg
-  - /img/profils/SantiagoB/IMG_1591.ori.jpg
-  - /img/profils/SantiagoB/IMG_1608.ori.jpg
-  - /img/profils/SantiagoB/IMG_1611.ori.jpg
-  - /img/profils/SantiagoB/IMG_1614.ori.jpg
-  - /img/profils/SantiagoB/IMG_1616.ori.jpg
-  - /img/profils/SantiagoB/IMG_1622.ori.jpg
+  - /SantiagoB/IMG_1583.ori.jpg
+  - /SantiagoB/IMG_1591.ori.jpg
+  - /SantiagoB/IMG_1608.ori.jpg
+  - /SantiagoB/IMG_1611.ori.jpg
+  - /SantiagoB/IMG_1614.ori.jpg
+  - /SantiagoB/IMG_1616.ori.jpg
+  - /SantiagoB/IMG_1622.ori.jpg
   - 
 
 

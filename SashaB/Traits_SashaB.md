@@ -2,15 +2,15 @@
 title: SashaB
 image: /img/profils/SashaB/01.jpg
 images:
-  - /img/profils/SashaB/02.jpg
-  - /img/profils/SashaB/03.jpg
-  - /img/profils/SashaB/04.jpg
-  - /img/profils/SashaB/05.jpg
-  - /img/profils/SashaB/06.jpg
-  - /img/profils/SashaB/07.jpg
-  - /img/profils/SashaB/08.jpeg
-  - /img/profils/SashaB/09.jpg
-  - /img/profils/SashaB/10.jpeg
+  - /SashaB/02.jpg
+  - /SashaB/03.jpg
+  - /SashaB/04.jpg
+  - /SashaB/05.jpg
+  - /SashaB/06.jpg
+  - /SashaB/07.jpg
+  - /SashaB/08.jpeg
+  - /SashaB/09.jpg
+  - /SashaB/10.jpeg
 
 messages:
 - Curieux

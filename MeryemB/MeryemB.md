@@ -2,16 +2,16 @@
 title: Meryem Berbiche
 image: /img/profils/MeryemB/berbiche-meryem-portrait.ori-10.jpg
 images:
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-01.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-02.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-03.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-04.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-05.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-06.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-07.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-08.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-09.jpg
-  - /img/profils/MeryemB/berbiche-meryem-portrait.ori-11.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-01.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-02.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-03.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-04.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-05.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-06.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-07.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-08.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-09.jpg
+  - /MeryemB/berbiche-meryem-portrait.ori-11.jpg
 
 messages:
 - Je suis fière d'être Algérienne et Kabyle

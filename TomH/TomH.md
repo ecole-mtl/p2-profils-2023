@@ -6,16 +6,16 @@ image:
 
 images:
   
-  - /img/profils/TomH/fonjiale.ori.jpg
-  - /img/profils/TomH/kintsugi.ori.jpg
-  - /img/profils/TomH/Naturel.ori.png
-  - /img/profils/TomH/ProjetansDanslAveranir.ori.jpg
-  - /img/profils/TomH/cryptique.ori.jpg
-  - /img/profils/TomH/uqam_couloir_007.ori.jpg
-  - /img/profils/TomH/intégration.ori.jpg
-  - /img/profils/TomH/FifPolitque.ori.ai.jpg
-  - /img/profils/TomH/moi_001.ori.jpg
-  - /img/profils/TomH/tete_002.ori.jpg
+  - /TomH/fonjiale.ori.jpg
+  - /TomH/kintsugi.ori.jpg
+  - /TomH/Naturel.ori.png
+  - /TomH/ProjetansDanslAveranir.ori.jpg
+  - /TomH/cryptique.ori.jpg
+  - /TomH/uqam_couloir_007.ori.jpg
+  - /TomH/intégration.ori.jpg
+  - /TomH/FifPolitque.ori.ai.jpg
+  - /TomH/moi_001.ori.jpg
+  - /TomH/tete_002.ori.jpg
   
 
 messages:

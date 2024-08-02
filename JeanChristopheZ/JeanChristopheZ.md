@@ -2,18 +2,18 @@
 title: Jean-Christophe Z
 image: /img/profils/JeanChristopheZ/IMG_0848.ori.jpg
 images:
-  - /img/profils/JeanChristopheZ/1W1A9041.ori.jpg
-  - /img/profils/JeanChristopheZ/1W1A9073.ori.jpg
-  - /img/profils/JeanChristopheZ/1W1A9098.ori.jpg
-  - /img/profils/JeanChristopheZ/1W1A9108.ori.jpg
-  - /img/profils/JeanChristopheZ/1W1A9120.ori.jpg
-  - /img/profils/JeanChristopheZ/1W1A9140.ori.jpg
-  - /img/profils/JeanChristopheZ/IMG_2114.ori.JPG
-  - /img/profils/JeanChristopheZ/1W1A9168.ori.jpg
-  - /img/profils/JeanChristopheZ/1N4A9302.ori.jpg
-  - /img/profils/JeanChristopheZ/1N4A9562.ori.jpg
-  - /img/profils/JeanChristopheZ/IMG_0848.ori.jpg
-  - /img/profils/JeanChristopheZ/jc_all_over.ori.png
+  - /JeanChristopheZ/1W1A9041.ori.jpg
+  - /JeanChristopheZ/1W1A9073.ori.jpg
+  - /JeanChristopheZ/1W1A9098.ori.jpg
+  - /JeanChristopheZ/1W1A9108.ori.jpg
+  - /JeanChristopheZ/1W1A9120.ori.jpg
+  - /JeanChristopheZ/1W1A9140.ori.jpg
+  - /JeanChristopheZ/IMG_2114.ori.JPG
+  - /JeanChristopheZ/1W1A9168.ori.jpg
+  - /JeanChristopheZ/1N4A9302.ori.jpg
+  - /JeanChristopheZ/1N4A9562.ori.jpg
+  - /JeanChristopheZ/IMG_0848.ori.jpg
+  - /JeanChristopheZ/jc_all_over.ori.png
 
 
 

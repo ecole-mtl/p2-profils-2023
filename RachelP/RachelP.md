@@ -2,14 +2,14 @@
 title: Rachel P
 image: /img/profils/RachelP/profil9.ori.jpg
 images:
-  - /img/profils/RachelP/profil1.ori.jpg
-  - /img/profils/RachelP/profil2.ori.jpg
-  - /img/profils/RachelP/profil3.ori.jpg
-  - /img/profils/RachelP/profil4.ori.jpg
-  - /img/profils/RachelP/profil5.ori.jpg
-  - /img/profils/RachelP/profil6.ori.jpg
-  - /img/profils/RachelP/profil7.ori.jpg
-  - /img/profils/RachelP/profil8.ori.jpg
+  - /RachelP/profil1.ori.jpg
+  - /RachelP/profil2.ori.jpg
+  - /RachelP/profil3.ori.jpg
+  - /RachelP/profil4.ori.jpg
+  - /RachelP/profil5.ori.jpg
+  - /RachelP/profil6.ori.jpg
+  - /RachelP/profil7.ori.jpg
+  - /RachelP/profil8.ori.jpg
 
 
 messages:

@@ -4,17 +4,17 @@ image: /img/profils/AldricB/portrait_photo8.ori.jpg
 
 
 images:
-  - /img/profils/AldricB/Spotify.ori.jpg
-  - /img/profils/AldricB/portrait_photo1.ori.jpg
-  - /img/profils/AldricB/portrait_photo2.ori.jpg
-  - /img/profils/AldricB/portrait_photo3.jpg
-  - /img/profils/AldricB/portrait_photo4.ori.jpg
-  - /img/profils/AldricB/portrait_photo5.jpg
-  - /img/profils/AldricB/portrait_photo6.jpg
-  - /img/profils/AldricB/portrait_photo7.ori.jpg
-  - /img/profils/AldricB/portrait_photo8.ori.jpg
-  - /img/profils/AldricB/portrait_photo9.jpg
-  - /img/profils/AldricB/portrait_photo10.jpg
+  - /AldricB/Spotify.ori.jpg
+  - /AldricB/portrait_photo1.ori.jpg
+  - /AldricB/portrait_photo2.ori.jpg
+  - /AldricB/portrait_photo3.jpg
+  - /AldricB/portrait_photo4.ori.jpg
+  - /AldricB/portrait_photo5.jpg
+  - /AldricB/portrait_photo6.jpg
+  - /AldricB/portrait_photo7.ori.jpg
+  - /AldricB/portrait_photo8.ori.jpg
+  - /AldricB/portrait_photo9.jpg
+  - /AldricB/portrait_photo10.jpg
   
 
 messages:

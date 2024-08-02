@@ -2,16 +2,16 @@
 title: Noémie P
 image: /img/profils/NoemieP/NP10,ori.jpg
 images:
-  - /img/profils/NoemieP/NP1.ori.jpg
-  - /img/profils/NoemieP/NP4.ori.jpg
-  - /img/profils/NoemieP/NP2.ori.jpg
-  - /img/profils/NoemieP/NP3.ai.png
-  - /img/profils/NoemieP/NP5.ori.jpg
-  - /img/profils/NoemieP/Halloween-longues-expos.ori.png
-  - /img/profils/NoemieP/NP6.ori.jpg
-  - /img/profils/NoemieP/NP7.ori.png
-  - /img/profils/NoemieP/NP8,ori.jpg
-  - /img/profils/NoemieP/NP9.ori.jpg
+  - /NoemieP/NP1.ori.jpg
+  - /NoemieP/NP4.ori.jpg
+  - /NoemieP/NP2.ori.jpg
+  - /NoemieP/NP3.ai.png
+  - /NoemieP/NP5.ori.jpg
+  - /NoemieP/Halloween-longues-expos.ori.png
+  - /NoemieP/NP6.ori.jpg
+  - /NoemieP/NP7.ori.png
+  - /NoemieP/NP8,ori.jpg
+  - /NoemieP/NP9.ori.jpg
      
 
  

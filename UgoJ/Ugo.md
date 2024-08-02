@@ -4,15 +4,15 @@ image: /img/profils/UgoJ/portrait_voiture.ori.jpg
 
 
 images:
-  - /img/profils/UgoJ/portrait_cine.ori.jpg
-  - /img/profils/UgoJ/portrait_karate.ai.png
-  - /img/profils/UgoJ/portrait_mauve.ori.jpg
-  - /img/profils/UgoJ/portrait_atmosphere.ori.jpg
-  - /img/profils/UgoJ/portrait_alien.ai.png
-  - /img/profils/UgoJ/portrait_lion.ai.png
-  - /img/profils/UgoJ/portrait_piano.ori.jpg
-  - /img/profils/UgoJ/portrait_galaxie.ori.jpg
-  - /img/profils/UgoJ/portrait_voyage.ori.jpg
+  - /UgoJ/portrait_cine.ori.jpg
+  - /UgoJ/portrait_karate.ai.png
+  - /UgoJ/portrait_mauve.ori.jpg
+  - /UgoJ/portrait_atmosphere.ori.jpg
+  - /UgoJ/portrait_alien.ai.png
+  - /UgoJ/portrait_lion.ai.png
+  - /UgoJ/portrait_piano.ori.jpg
+  - /UgoJ/portrait_galaxie.ori.jpg
+  - /UgoJ/portrait_voyage.ori.jpg
 
 
 messages:

@@ -2,15 +2,15 @@
 title: NoemiL
 image: /img/profils/NoemiL/Profil_Noémi_01.ori.jpg
 images:
-  - /img/profils/NoemiL/Profil_Noémi_02.IA.ori.jpeg
-  - /img/profils/NoemiL/Profil_Noémi_03.ori.jpg
-  - /img/profils/NoemiL/Profil_Noémi_04.ori.JPG
-  - /img/profils/NoemiL/Profil_Noémi_05.IA.ori.jpg
-  - /img/profils/NoemiL/Profil_Noémi_06.ori.jpg
-  - /img/profils/NoemiL/Profil_Noémi_07.ori.jpg
-  - /img/profils/NoemiL/Profil_Noémi_08.ori.jpg
-  - /img/profils/NoemiL/Profil_Noémi_09.ori.JPG
-  - /img/profils/NoemiL/Profil_Noémi_10.ori.JPG
+  - /NoemiL/Profil_Noémi_02.IA.ori.jpeg
+  - /NoemiL/Profil_Noémi_03.ori.jpg
+  - /NoemiL/Profil_Noémi_04.ori.JPG
+  - /NoemiL/Profil_Noémi_05.IA.ori.jpg
+  - /NoemiL/Profil_Noémi_06.ori.jpg
+  - /NoemiL/Profil_Noémi_07.ori.jpg
+  - /NoemiL/Profil_Noémi_08.ori.jpg
+  - /NoemiL/Profil_Noémi_09.ori.JPG
+  - /NoemiL/Profil_Noémi_10.ori.JPG
 
 messages: 
   - Je suis quelqu’un de très optimiste
