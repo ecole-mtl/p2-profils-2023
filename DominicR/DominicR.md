@@ -1,6 +1,6 @@
 ---
 title: Dominic R
-image: /img/profils/DominicR/dominicR_01.ori.JPG
+image: /DominicR/dominicR_01.ori.JPG
 images:
   - /DominicR/dominicR_01.ori.JPG
   - /DominicR/dominicR_02.ori.JPG

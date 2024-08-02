@@ -1,6 +1,6 @@
 ---
 title: Justin L 
-image: /img/profils/JustinL/JustinL-3.ori.JPG
+image: /JustinL/JustinL-3.ori.JPG
 images:
   - /JustinL/JustinL-1.ori.JPG
   - /JustinL/JustinL-2.ori.JPG

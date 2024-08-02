@@ -1,6 +1,6 @@
 ---
 title: SashaB
-image: /img/profils/SashaB/01.jpg
+image: /SashaB/01.jpg
 images:
   - /SashaB/02.jpg
   - /SashaB/03.jpg

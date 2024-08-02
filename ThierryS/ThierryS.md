@@ -1,6 +1,6 @@
 ---
 title: Thierry Sarrazin Renaud
-image: /img/profils/ThierryS/PP4.ori.jpg.jpg
+image: /ThierryS/PP4.ori.jpg.jpg
 images:
   - /ThierryS/PP1.ori.jpg.jpg
   - /ThierryS/PP2.ori.jpg.png

@@ -1,6 +1,6 @@
 ---
 title: Thomas-Xavier M
-image: /img/profils/ThomasXavierM/20-ori.ori.jpg
+image: /ThomasXavierM/20-ori.ori.jpg
 
 
 images:

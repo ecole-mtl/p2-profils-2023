@@ -1,6 +1,6 @@
 ---
 title: Raton G
-image: /img/profils/RatonG/wierdsitting-Edit.jpg
+image: /RatonG/wierdsitting-Edit.jpg
 images:
  - /img/profils/RatonG/bow.ori-Edit.jpg
  - /img/profils/RatonG/chain.ori.JPG

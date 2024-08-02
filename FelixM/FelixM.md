@@ -1,6 +1,6 @@
 ---
 title: Félix M
-image: /img/profils/FelixM/filtre.png
+image: /FelixM/filtre.png
 images:
   - /FelixM/1.jpg
   - /FelixM/0.jpg

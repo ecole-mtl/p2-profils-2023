@@ -1,6 +1,6 @@
 ---
 title: Émilie F
-image: /img/profils/EmilieF/portrait_pluie.ori.png
+image: /EmilieF/portrait_pluie.ori.png
 images:
   - /EmilieF/portrait_montage.ori.jpg
   - /EmilieF/amitie_tokyo.ori.jpg

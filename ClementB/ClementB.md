@@ -1,6 +1,6 @@
 ---
 title: ClementB
-image: /img/profils/ClementB/profil2.ori.jpg
+image: /ClementB/profil2.ori.jpg
 images:
   - /ClementB/profil.ori.jpg
   - /ClementB/portrait.ori.jpg

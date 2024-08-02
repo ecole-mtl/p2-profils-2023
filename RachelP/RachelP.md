@@ -1,6 +1,6 @@
 ---
 title: Rachel P
-image: /img/profils/RachelP/profil9.ori.jpg
+image: /RachelP/profil9.ori.jpg
 images:
   - /RachelP/profil1.ori.jpg
   - /RachelP/profil2.ori.jpg

@@ -1,6 +1,6 @@
 ---
 title: Maude L
-image: /img/profils/MaudeL/protrait_bleu.ori.jpg
+image: /MaudeL/protrait_bleu.ori.jpg
 
 
 images:

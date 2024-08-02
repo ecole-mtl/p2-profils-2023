@@ -1,6 +1,6 @@
 ---
 title: Noémie P
-image: /img/profils/NoemieP/NP10,ori.jpg
+image: /NoemieP/NP10,ori.jpg
 images:
   - /NoemieP/NP1.ori.jpg
   - /NoemieP/NP4.ori.jpg

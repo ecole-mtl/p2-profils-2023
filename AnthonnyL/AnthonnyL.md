@@ -1,6 +1,6 @@
 ---
 title: Anthonny Lussier
-image: /img/profils/AnthonnyL/moi1.jpg
+image: /AnthonnyL/moi1.jpg
 
 
 images:

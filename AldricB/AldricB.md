@@ -1,6 +1,6 @@
 ---
 title: Aldric Barbé
-image: /img/profils/AldricB/portrait_photo8.ori.jpg
+image: /AldricB/portrait_photo8.ori.jpg
 
 
 images:

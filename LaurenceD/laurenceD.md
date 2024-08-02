@@ -1,6 +1,6 @@
 ---
 title: Laurence Dionne
-image: /img/profils/LaurenceD/07.ori.JPG
+image: /LaurenceD/07.ori.JPG
 
 messages:
   - Polyvalente

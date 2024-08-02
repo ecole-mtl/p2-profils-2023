@@ -1,6 +1,6 @@
 ---
 title: Florence Lapierre
-image: /img/profils/FlorenceL/portrait.ori.JPG
+image: /FlorenceL/portrait.ori.JPG
 images:
   - /FlorenceL/champ_de_fleur2_ori.png
   - /FlorenceL/fleur_ombre_brillant.ori.jpg

@@ -1,6 +1,6 @@
 ---
 title: Médéric P
-image: /img/profils/MedericP/MedericP2.ori.jpg
+image: /MedericP/MedericP2.ori.jpg
 images:
   - /MedericP/MedericP4.ori.jpg
   - /MedericP/MedericP1.ori.jpg

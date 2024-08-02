@@ -1,6 +1,6 @@
 ---
 title: Ugo J
-image: /img/profils/UgoJ/portrait_voiture.ori.jpg
+image: /UgoJ/portrait_voiture.ori.jpg
 
 
 images:

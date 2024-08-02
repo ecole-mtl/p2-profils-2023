@@ -1,6 +1,6 @@
 ---
 title: Jean-Christophe Z
-image: /img/profils/JeanChristopheZ/IMG_0848.ori.jpg
+image: /JeanChristopheZ/IMG_0848.ori.jpg
 images:
   - /JeanChristopheZ/1W1A9041.ori.jpg
   - /JeanChristopheZ/1W1A9073.ori.jpg

@@ -1,6 +1,6 @@
 ---
 title: Emmanuel T
-image: /img/profils/EmmanuelT/moi_normal.ori.jpg
+image: /EmmanuelT/moi_normal.ori.jpg
 images:
   - /EmmanuelT/moi_silly.ori.jpg
   - /EmmanuelT/moi_zen.ori.jpg

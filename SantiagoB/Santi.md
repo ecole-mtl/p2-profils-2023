@@ -1,6 +1,6 @@
 ---
 title: Santiago B
-image: /img/profils/SantiagoB/IMG_1602.ori.jpg
+image: /SantiagoB/IMG_1602.ori.jpg
 
 images:
   - /SantiagoB/IMG_1583.ori.jpg

@@ -1,6 +1,6 @@
 ---
 title: NoemiL
-image: /img/profils/NoemiL/Profil_Noémi_01.ori.jpg
+image: /NoemiL/Profil_Noémi_01.ori.jpg
 images:
   - /NoemiL/Profil_Noémi_02.IA.ori.jpeg
   - /NoemiL/Profil_Noémi_03.ori.jpg

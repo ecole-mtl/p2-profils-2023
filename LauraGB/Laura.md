@@ -1,6 +1,6 @@
 ---
 title: Laura GB
-image: /img/profils/LauraGB/all_over_the_place.ori.jpg
+image: /LauraGB/all_over_the_place.ori.jpg
 images:
   - /LauraGB/bald.ori.jpg
   - /LauraGB/boxe.ori.jpg

@@ -1,6 +1,6 @@
 ---
 title: Maxim Charest
-image: /img/profils/MaximC/Maxim2.jpg
+image: /MaximC/Maxim2.jpg
 
 
 images:

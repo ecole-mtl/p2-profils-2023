@@ -1,6 +1,6 @@
 ---
 title: Sarah L
-image: /img/profils/SarahL/me.ori.jpg
+image: /SarahL/me.ori.jpg
 images:
   - /SarahL/Desk.ori.jpg
   - /SarahL/MInou.ori.jpg

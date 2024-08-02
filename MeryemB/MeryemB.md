@@ -1,6 +1,6 @@
 ---
 title: Meryem Berbiche
-image: /img/profils/MeryemB/berbiche-meryem-portrait.ori-10.jpg
+image: /MeryemB/berbiche-meryem-portrait.ori-10.jpg
 images:
   - /MeryemB/berbiche-meryem-portrait.ori-01.jpg
   - /MeryemB/berbiche-meryem-portrait.ori-02.jpg

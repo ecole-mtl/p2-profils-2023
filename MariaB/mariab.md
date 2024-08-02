@@ -1,6 +1,6 @@
 ---
 title: MariaB
-image: /img/profils/MariaB/MariaB.png
+image: /MariaB/MariaB.png
 images:
 
   - /MariaB/2-tp-001.ori.JPG
