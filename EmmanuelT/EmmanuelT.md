@@ -4,7 +4,7 @@ image: /EmmanuelT/moi_normal.ori.jpg
 images:
   - /EmmanuelT/moi_silly.ori.jpg
   - /EmmanuelT/moi_zen.ori.jpg
-  - - /img/profils/EmmanuelT/moi_fanatiq.ori.jpg
+  - - /EmmanuelT/moi_fanatiq.ori.jpg
   - /EmmanuelT/consoles.ori.jpg
   - /EmmanuelT/anime.ori.jpg
   - /EmmanuelT/SpotifyStats.ori.jpg

@@ -2,17 +2,17 @@
 title: Raton G
 image: /RatonG/wierdsitting-Edit.jpg
 images:
- - /img/profils/RatonG/bow.ori-Edit.jpg
- - /img/profils/RatonG/chain.ori.JPG
- - /img/profils/RatonG/front.ori.JPG
- - /img/profils/RatonG/moon.ori-Edit.jpg
- - /img/profils/RatonG/pinkback.ori.JPG
- - /img/profils/RatonG/Ratonbiblio.ai.jpg
- - /img/profils/RatonG/red.ori.JPG
- - /img/profils/RatonG/sphèreprofil.JPG
- - /img/profils/RatonG/wierdpose.ori.JPG
- - /img/profils/RatonG/wierdsitting-Edit.jpg
- - /img/profils/RatonG/makeup2.png
+ - /RatonG/bow.ori-Edit.jpg
+ - /RatonG/chain.ori.JPG
+ - /RatonG/front.ori.JPG
+ - /RatonG/moon.ori-Edit.jpg
+ - /RatonG/pinkback.ori.JPG
+ - /RatonG/Ratonbiblio.ai.jpg
+ - /RatonG/red.ori.JPG
+ - /RatonG/sphèreprofil.JPG
+ - /RatonG/wierdpose.ori.JPG
+ - /RatonG/wierdsitting-Edit.jpg
+ - /RatonG/makeup2.png
 
 
 messages:
