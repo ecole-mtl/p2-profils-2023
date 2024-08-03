@@ -1,18 +1,18 @@
 ---
 title: Thomas-Xavier M
-image: /ThomasXavierM/20-ori.ori.jpg
+image: /ThomasXavierM/20-ori.jpg
 
 
 images:
-  - /ThomasXavierM/PHOTOAPP/cartoon-ori.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/711-ori.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/Astro-oir-ai.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/cartoon-ori.jpg
+  - /ThomasXavierM/PHOTOAPP/711-ori.jpg
+  - /ThomasXavierM/PHOTOAPP/Astro-oir-ai.jpg
   - /ThomasXavierM/PHOTOAPP/BlueWinter.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/MoonFace-ori.ori.jpg
+  - /ThomasXavierM/PHOTOAPP/MoonFace-ori.jpg
   - /ThomasXavierM/PHOTOAPP/Suit-ori-ai.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/cameleon-ori.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/shadow-ori.ori.jpg
-  - /ThomasXavierM/PHOTOAPP/street-ori.ori.png
+  - /ThomasXavierM/PHOTOAPP/cameleon-ori.jpg
+  - /ThomasXavierM/PHOTOAPP/shadow-ori.jpg
+  - /ThomasXavierM/PHOTOAPP/street-ori.png
  
 
 Messages :

@@ -5,7 +5,6 @@ image:
 - /img/profils/TomH/fonjiale.ori.png
 
 images:
-  
   - /TomH/fonjiale.ori.jpg
   - /TomH/kintsugi.ori.jpg
   - /TomH/Naturel.ori.png
